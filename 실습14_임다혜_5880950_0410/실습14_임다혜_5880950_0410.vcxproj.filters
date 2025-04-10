@@ -15,8 +15,16 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="미완성_0410_5880950_임다혜.c">
+    <ClCompile Include="완성_0410_5880950_임다혜.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="완성_0410_5880950_임다혜_main.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="linearList_5880950_임다혜.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
